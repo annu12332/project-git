@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: aqua;
+}
+#p1{
+    size: 200rem;
+    color: blue;
+    background-color: beige;
+    background-size: 20px;
+}
